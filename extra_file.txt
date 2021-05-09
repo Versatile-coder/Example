@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 48A0-2AE9
+
+ Directory of C:\Jenkin_Git
+
+05/09/2021  04:50 PM    <DIR>          .
+05/09/2021  04:50 PM    <DIR>          ..
+05/09/2021  03:50 PM                33 Example.py
+05/09/2021  04:50 PM                 0 extra_file.txt
+               2 File(s)             33 bytes
+               2 Dir(s)  307,321,909,248 bytes free
